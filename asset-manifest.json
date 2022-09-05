@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eef8812e.css",
-    "main.js": "/static/js/main.98020dfd.js",
+    "main.css": "/static/css/main.905ae6f2.css",
+    "main.js": "/static/js/main.57828b42.js",
     "static/js/377.1f8dafff.chunk.js": "/static/js/377.1f8dafff.chunk.js",
     "static/media/0A24958D-0EF6-4037-AA1B-C4FE1710CF08.jpg": "/static/media/0A24958D-0EF6-4037-AA1B-C4FE1710CF08.431b20f894c162305877.jpg",
     "static/media/untitled00.jpg": "/static/media/untitled00.36003e4df92f22765cc3.jpg",
@@ -270,6 +270,7 @@
     "static/media/chasing_day.jpg": "/static/media/chasing_day.b97d34f4408e0223a0bf.jpg",
     "static/media/the_art_of_getting_by.jpg": "/static/media/the_art_of_getting_by.5d4ef0f8b9c1634aaa77.jpg",
     "static/media/net_joy.jpg": "/static/media/net_joy.aa74359213bb2bc30155.jpg",
+    "static/media/DavidMoodyResume.pdf": "/static/media/DavidMoodyResume.92ab0e14f15180e1f936.pdf",
     "static/media/black_joy.jpg": "/static/media/black_joy.c5fe57c4659ac7726e6b.jpg",
     "static/media/a_shot_in_the_dark.jpg": "/static/media/a_shot_in_the_dark.be7c1158afe006b67cf8.jpg",
     "static/media/the_abc_elevator_speech.jpg": "/static/media/the_abc_elevator_speech.c3e5a3bade32e2b4e962.jpg",
@@ -283,12 +284,12 @@
     "static/media/blank.jpg": "/static/media/blank.11becc6d15ed013aeaa8.jpg",
     "static/media/luck.jpg": "/static/media/luck.f8352c9d84a2606fff9a.jpg",
     "index.html": "/index.html",
-    "main.eef8812e.css.map": "/static/css/main.eef8812e.css.map",
-    "main.98020dfd.js.map": "/static/js/main.98020dfd.js.map",
+    "main.905ae6f2.css.map": "/static/css/main.905ae6f2.css.map",
+    "main.57828b42.js.map": "/static/js/main.57828b42.js.map",
     "377.1f8dafff.chunk.js.map": "/static/js/377.1f8dafff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eef8812e.css",
-    "static/js/main.98020dfd.js"
+    "static/css/main.905ae6f2.css",
+    "static/js/main.57828b42.js"
   ]
 }
