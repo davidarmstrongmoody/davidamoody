@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e25facae.css",
-    "main.js": "/static/js/main.b9686052.js",
+    "main.js": "/static/js/main.f247acf6.js",
     "static/js/377.1f8dafff.chunk.js": "/static/js/377.1f8dafff.chunk.js",
     "static/media/0A24958D-0EF6-4037-AA1B-C4FE1710CF08.jpg": "/static/media/0A24958D-0EF6-4037-AA1B-C4FE1710CF08.431b20f894c162305877.jpg",
     "static/media/untitled00.jpg": "/static/media/untitled00.36003e4df92f22765cc3.jpg",
@@ -274,7 +274,6 @@
     "static/media/black_joy.jpg": "/static/media/black_joy.c5fe57c4659ac7726e6b.jpg",
     "static/media/a_shot_in_the_dark.jpg": "/static/media/a_shot_in_the_dark.be7c1158afe006b67cf8.jpg",
     "static/media/the_abc_elevator_speech.jpg": "/static/media/the_abc_elevator_speech.c3e5a3bade32e2b4e962.jpg",
-    "static/media/the_stock_price_just_went_up_again.jpeg": "/static/media/the_stock_price_just_went_up_again.8195ecb2a55651d3d190.jpeg",
     "static/media/the_stock_price_just_went_up_again.jpg": "/static/media/the_stock_price_just_went_up_again.8195ecb2a55651d3d190.jpg",
     "static/media/boy_from_mars.jpg": "/static/media/boy_from_mars.af7f99e01ce09ac0eadb.jpg",
     "static/media/moody_by_design.jpg": "/static/media/moody_by_design.4441dc043cd467e16705.jpg",
@@ -285,11 +284,11 @@
     "static/media/luck.jpg": "/static/media/luck.f8352c9d84a2606fff9a.jpg",
     "index.html": "/index.html",
     "main.e25facae.css.map": "/static/css/main.e25facae.css.map",
-    "main.b9686052.js.map": "/static/js/main.b9686052.js.map",
+    "main.f247acf6.js.map": "/static/js/main.f247acf6.js.map",
     "377.1f8dafff.chunk.js.map": "/static/js/377.1f8dafff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e25facae.css",
-    "static/js/main.b9686052.js"
+    "static/js/main.f247acf6.js"
   ]
 }
