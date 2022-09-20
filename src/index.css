@@ -1,0 +1,20 @@
+html {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  color: #000000;
+  background-color: #fafafa;
+}
+#root {
+  margin: 0;
+  padding: 0;
+}
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&family=Manrope:wght@300&family=PT+Sans&family=Quicksand:wght@300&display=swap");
